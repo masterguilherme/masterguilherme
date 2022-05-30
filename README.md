@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao meu perfil
 
+### Hoje estou focado em desenvolver a linguagem Java, meu objetivo é conseguir um estágio, assim desenvolver expêriencias reais de desenvolvimento e análise de sistemas.
+
  <div>
   <a href="https://github.com/masterguilherme">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masterguilherme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
