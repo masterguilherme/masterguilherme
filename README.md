@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil
 
-### Hoje estou focado em desenvolver a linguagem Java, meu objetivo é conseguir um estágio, assim desenvolver expêriencias reais de desenvolvimento e análise de sistemas.
+### Hoje estou focado em desenvolver a linguagem Java, assim desenvolver expêriencias reais de desenvolvimento e análise de sistemas.
 
  <div>
   <a href="https://github.com/masterguilherme">
